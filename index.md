@@ -2,9 +2,9 @@
 
 ---
 
-### Sample Projects 
+### ML Projects 
 
-[Logistic Regression](/sample_page)
+[Logistic Regression](/Logistic Regression)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
