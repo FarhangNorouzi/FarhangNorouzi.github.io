@@ -4,7 +4,7 @@
 
 ### ML Projects 
 
-[Logistic Regression](/Logistic Regression)
+[Logistic Regression](/Logistic_Regression)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
