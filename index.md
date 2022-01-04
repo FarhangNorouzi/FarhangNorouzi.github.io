@@ -6,7 +6,7 @@
 [Logistic Regression](/Logistic_Regression)
 <img src="images/Logistic%20Regression/Logestic Regression_sample pic2.png?raw=true"/>
 <p align = "center">
-Picture Courtesy: https://medium.com/<br/>
+Reference: https://medium.com/<br/>
 URL: https://medium.com/analytics-vidhya/logistic-regression-with-scracth-c23b9afb04b2
 </p>
 ---
