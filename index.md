@@ -1,7 +1,7 @@
 ## PORTFOLIO
 ---
 
-### ML Projects 
+### Machine Learning Projects 
 
 [Logistic Regression](/Logistic_Regression)
 <img src="images/Logistic%20Regression/Logestic Regression_sample pic2.png?raw=true"/>
@@ -19,9 +19,9 @@ URL: https://medium.com/analytics-vidhya/logistic-regression-with-scracth-c23b9a
 
 ---
 
-### Category Name 2
+### Deep Learning Projects
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title](/Logistic_Regression)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
