@@ -28,7 +28,7 @@ URL: https://medium.com/analytics-vidhya/logistic-regression-with-scracth-c23b9a
 </p>
 ---
 
-- [Project 1 Title](/Projects/Logistic_Regression)
+- [Project 1 Title](/Projects/Logistic Regression/Logistic_Regression)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
