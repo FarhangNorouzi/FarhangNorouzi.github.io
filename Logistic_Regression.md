@@ -28,15 +28,15 @@ Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D. University Hosp
 
 #### Confusion Matrix:
 
-![alt text](https://https://github.com/FarhangNorouzi/FarhangNorouzi.github.io/tree/main/images/Logistic%20Regression/confusion_matrix.png)
+<img src="images/Logistic%20Regression/confusion_matrix.png?raw=true"/>
 
 #### Precision Recall Curve:
 
-![alt text](https://https://github.com/FarhangNorouzi/FarhangNorouzi.github.io/tree/main/images/Logistic%20Regression/precision_recall_curve.png.png)
+<img src="images/Logistic%20Regression/precision_recall_curve.png?raw=true"/>
 
 #### ROC Curve:
 
-![alt text](https://https://github.com/FarhangNorouzi/FarhangNorouzi.github.io/tree/main/images/Logistic%20Regression/roc_curve.png.png)
+<img src="images/Logistic%20Regression/roc_curve.png?raw=true"/>
 
 ### Learning Outcomes:
 
