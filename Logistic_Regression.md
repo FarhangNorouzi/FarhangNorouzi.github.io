@@ -24,30 +24,23 @@
 **Creators:**
 Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D. University Hospital, Zurich, Switzerland: William Steinbrunn, M.D. University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D. V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Results
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+#### Confusion Matrix:
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+![alt text](https://https://github.com/FarhangNorouzi/FarhangNorouzi.github.io/tree/main/images/Logistic%20Regression/confusion_matrix.png)
 
-### 2. Assess assumptions on which statistical inference will be based
+#### Precision Recall Curve:
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+![alt text](https://https://github.com/FarhangNorouzi/FarhangNorouzi.github.io/tree/main/images/Logistic%20Regression/precision_recall_curve.png.png)
 
-### 3. Support the selection of appropriate statistical tools and techniques
+#### ROC Curve:
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![alt text](https://https://github.com/FarhangNorouzi/FarhangNorouzi.github.io/tree/main/images/Logistic%20Regression/roc_curve.png.png)
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### Learning Outcomes:
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
