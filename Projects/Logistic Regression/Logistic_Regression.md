@@ -32,7 +32,8 @@ Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D. University Hosp
 
 #### Precision Recall Curve:
 
-<img src="images/Logistic%20Regression/precision_recall_curve.png?raw=true"/>
+<!img src="images/Logistic%20Regression/precision_recall_curve.png?raw=true"/>
+<img src="FarhangNorouzi/FarhangNorouzi.github.io/tree/main/images/Logistic%20Regression/precision_recall_curve.png?raw=true"/>
 
 #### ROC Curve:
 
