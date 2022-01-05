@@ -1,4 +1,4 @@
-## Likelihood Prediction of Heart Disease Logistic Regression
+## Likelihood Prediction of Heart Disease Using Logistic Regression
 
 **Project Description:** The goal of this project is to create a Classification Model which predicts whether or not a person has presence of heart disease based on physical features of that person such as age,sex, cholesterol, etc...
 
