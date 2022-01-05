@@ -14,7 +14,7 @@ URL: https://medium.com/analytics-vidhya/logistic-regression-with-scracth-c23b9a
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[wine Fraud Detection Using SVM Method ](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
