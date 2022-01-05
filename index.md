@@ -3,7 +3,7 @@
 
 ### Machine Learning Projects 
 
-[Logistic Regression](/Logistic_Regression)
+[Logistic Regression](/Projects/Logistic Regression/Logistic_Regression)
 <img src="images/Logistic%20Regression/Logestic Regression_sample pic2.png?raw=true"/>
 <p align = "center">
 Reference: https://medium.com/<br/>
