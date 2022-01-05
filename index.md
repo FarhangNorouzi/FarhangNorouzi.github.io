@@ -20,7 +20,7 @@ URL: https://medium.com/analytics-vidhya/logistic-regression-with-scracth-c23b9a
 ---
 
 ### Deep Learning Projects
-[Logistic Regression](/Logistic_Regression)
+[Logistic Regression](/Projects/Logistic Regression/Logistic_Regression)
 <img src="images/Logistic%20Regression/Logestic Regression_sample pic2.png?raw=true"/>
 <p align = "center">
 Reference: https://medium.com/<br/>
@@ -28,7 +28,7 @@ URL: https://medium.com/analytics-vidhya/logistic-regression-with-scracth-c23b9a
 </p>
 ---
 
-- [Project 1 Title](/Projects/Logistic Regression/Logistic_Regression)
+- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
