@@ -1,6 +1,6 @@
 ## Logistic Regression
 
-**Project Descriptionnnn:** The goal of this project is to create a Classification Model which predicts whether or not a person has presence of heart disease based on physical features of that person such as age,sex, cholesterol, etc...
+**Project Description:** The goal of this project is to create a Classification Model which predicts whether or not a person has presence of heart disease based on physical features of that person such as age,sex, cholesterol, etc...
 
 **DATA:** This database contains 14 physical attributes based on physical testing of a patient. Blood samples are taken and the patient also conducts a brief exercise test. The "goal" field refers to the presence of heart disease in the patient. It is integer (0 for no presence, 1 for presence). In general, to confirm 100% if a patient has heart disease can be quite an invasive process, so if we can create a model that accurately predicts the likelihood of heart disease, we can help avoid expensive and invasive procedures.
 
@@ -28,7 +28,7 @@ Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D. University Hosp
 
 #### Confusion Matrix:
 
-<img src="images/Logistic%20Regression/confusion_matrix.png?raw=true"/>
+<img src="../../images/Logistic%20Regression/confusion_matrix.png?raw=true"/>
 
 #### Precision Recall Curve:
 
@@ -37,7 +37,7 @@ Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D. University Hosp
 
 #### ROC Curve:
 
-<img src="images/Logistic%20Regression/roc_curve.png?raw=true"/>
+<img src="../../images/Logistic%20Regression/roc_curve.png?raw=true"/>
 
 ### Learning Outcomes:
 
