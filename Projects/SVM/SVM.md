@@ -1,6 +1,7 @@
 ## Wine Fraud Detection Using SVM Method
 
-**Project Description:** The overall goal is to use the wine dataset to develop a machine learning model that attempts to predict if a wine is "Legit" or "Fraud" based on various chemical features.
+**Project Description:** The overall goal is to use the wine dataset to develop a machine learning model that attempts to predict if a wine is "Legit" or "Fraud" based on various chemical features./
+This project has been done as part of the *2021 Python for Machine Learning & Data Science Masterclass* online certificate on udemy.com
 
 **DATA:** This dataset contains 12 different chemical attributes such as acidity, density, pH etc... for about 6500 entries. The target label (quality) is strongly imbalanced toward the "Legit" label which makes the prediction challenging.   
 
