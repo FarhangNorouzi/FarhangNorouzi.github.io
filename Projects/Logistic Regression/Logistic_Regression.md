@@ -44,7 +44,8 @@ Yann-Aël Le Borgne, Gianluca Bontempi Machine Learning for Credit Card Fraud De
 
 #### Confusion Matrix:
 
-<img src="../../images/Logistic%20Regression/confusion_matrix.png?raw=true"/>
+<img src="../../images/Logistic%20Regression/CNF_matrix_RFC.png.png?raw=true"/>
+<img src="../../images/Logistic%20Regression/CNF_matrix_XGB.png.png?raw=true"/>
 
 #### Precision Recall Curve:
 
