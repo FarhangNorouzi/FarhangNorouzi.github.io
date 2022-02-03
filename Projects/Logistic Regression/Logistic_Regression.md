@@ -1,30 +1,44 @@
 ## Credit Card Fraud Detection Using Logistic Regression
 
-**Project Description:** The goal of this project is to create a Classification Model which predicts whether or not a person has presence of heart disease based on physical features of that person such as age,sex, cholesterol, etc...\
-This project has been done as part of the *2021 Python for Machine Learning & Data Science Masterclass* online certificate on udemy.com
+**Project Description:** The goal of this project is to create a Classification Model which can detect the Fraud credit card transactions. Different classification methods have been used and a comparison among their performance is done.  
+The dataset is chosen as one of the data science/machine learning competitions on kaggle.com.
 
 
-**DATA:** This database contains 14 physical attributes based on physical testing of a patient. Blood samples are taken and the patient also conducts a brief exercise test. The "goal" field refers to the presence of heart disease in the patient. It is integer (0 for no presence, 1 for presence). In general, to confirm 100% if a patient has heart disease can be quite an invasive process, so if we can create a model that accurately predicts the likelihood of heart disease, we can help avoid expensive and invasive procedures.
+**DATA:** The dataset contains transactions made by credit cards in September 2013 by European cardholders.
+The whole transactions in the dataset occurred in two days, with 492 fraud transactions out of 284,807. Therefore, the dataset is highly unbalanced, toward the negative class (legit) where the positive class (frauds) accounts for 0.172% of all transactions.
+
+The dataset contains only numerical input variables which are the outcome of a PCA transformation. The original features were not provided due to confidentiality issues. Features V1, V2, … V28 are the principal components obtained with PCA, where 'Time' and 'Amount' are the only features which have not been transformed. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction. The feature 'Amount' is the corresponding amount for each transaction, an it can be used for example-dependant cost-sensitive learning. Feature 'Class' is the target variable and it takes value 1 in case of fraud and 0 otherwise.
 
 **Attribute Information:**
-- age
-- sex
-- chest pain type (4 values)
-- resting blood pressure
-- serum cholestoral in mg/dl
-- fasting blood sugar > 120 mg/dl
-- resting electrocardiographic results (values 0,1,2)
-- maximum heart rate achieved
-- exercise induced angina
-- oldpeak = ST depression induced by exercise relative to rest
-- the slope of the peak exercise ST segment
-- number of major vessels (0-3) colored by flourosopy
-- thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
-- target:0 for no presence of heart disease, 1 for presence of heart disease
+- Amount : Transaction amount
+- Time: seconds elapsed between each transaction 
+- V1 to v28 : PCA obtained features  
+- Class: 1 in case of fraud and 0 otherwise
 - Original Source: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
-**Creators:**
-Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D. University Hospital, Zurich, Switzerland: William Steinbrunn, M.D. University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D. V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
+**Acknowledgements:**
+The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
+More details on current and past projects on related topics are available on https://www.researchgate.net/project/Fraud-detection-5 and the page of the DefeatFraud project
+
+Please cite the following works:
+
+Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
+
+Dal Pozzolo, Andrea; Caelen, Olivier; Le Borgne, Yann-Ael; Waterschoot, Serge; Bontempi, Gianluca. Learned lessons in credit card fraud detection from a practitioner perspective, Expert systems with applications,41,10,4915-4928,2014, Pergamon
+
+Dal Pozzolo, Andrea; Boracchi, Giacomo; Caelen, Olivier; Alippi, Cesare; Bontempi, Gianluca. Credit card fraud detection: a realistic modeling and a novel learning strategy, IEEE transactions on neural networks and learning systems,29,8,3784-3797,2018,IEEE
+
+Dal Pozzolo, Andrea Adaptive Machine learning for credit card fraud detection ULB MLG PhD thesis (supervised by G. Bontempi)
+
+Carcillo, Fabrizio; Dal Pozzolo, Andrea; Le Borgne, Yann-Aël; Caelen, Olivier; Mazzer, Yannis; Bontempi, Gianluca. Scarff: a scalable framework for streaming credit card fraud detection with Spark, Information fusion,41, 182-194,2018,Elsevier
+
+Carcillo, Fabrizio; Le Borgne, Yann-Aël; Caelen, Olivier; Bontempi, Gianluca. Streaming active learning strategies for real-life credit card fraud detection: assessment and visualization, International Journal of Data Science and Analytics, 5,4,285-300,2018,Springer International Publishing
+
+Bertrand Lebichot, Yann-Aël Le Borgne, Liyun He, Frederic Oblé, Gianluca Bontempi Deep-Learning Domain Adaptation Techniques for Credit Cards Fraud Detection, INNSBDDL 2019: Recent Advances in Big Data and Deep Learning, pp 78-88, 2019
+
+Fabrizio Carcillo, Yann-Aël Le Borgne, Olivier Caelen, Frederic Oblé, Gianluca Bontempi Combining Unsupervised and Supervised Learning in Credit Card Fraud Detection Information Sciences, 2019
+
+Yann-Aël Le Borgne, Gianluca Bontempi Machine Learning for Credit Card Fraud Detection - Practical Handbook
 
 ### Results
 
