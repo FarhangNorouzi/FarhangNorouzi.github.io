@@ -3,8 +3,8 @@
 
 ### Machine Learning Projects 
 
-[Likelihood Prediction of Heart Disease Using Logistic Regression](/Projects/Logistic Regression/Logistic_Regression)
-<img src="images/Logistic%20Regression/Logestic Regression_sample pic2.png?raw=true"/>
+[Credit Card Fraud Detection Using Logistic Regression](/Projects/Logistic Regression/Logistic_Regression)
+<img src="images/Logistic%20Regression/Credi Card Fraud profile pic.png?raw=true"/>
 <p align = "center">
 Reference: https://medium.com/<br/>
 URL: https://medium.com/analytics-vidhya/logistic-regression-with-scracth-c23b9afb04b2
