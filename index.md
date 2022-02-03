@@ -4,6 +4,7 @@
 ### Machine Learning Projects 
 
 [Credit Card Fraud Detection Using Logistic Regression](/Projects/Logistic Regression/Logistic_Regression)
+<a href="/Projects/Logistic Regression/Logistic_Regression/" style="color: red; ">[Credit Card Fraud Detection Using Logistic Regression]</a>
 <img src="images/Logistic%20Regression/Credi Card Fraud profile pic.jpg?raw=true"/>
 <p align = "center">
 Reference: https://www.kaggle.com<br/>
