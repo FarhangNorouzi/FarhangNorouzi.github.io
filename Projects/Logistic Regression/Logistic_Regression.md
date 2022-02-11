@@ -51,13 +51,13 @@ Yann-Aël Le Borgne, Gianluca Bontempi Machine Learning for Credit Card Fraud De
 #### Precision Recall Curve:
 
 <!--img src="images/Logistic%20Regression/precision_recall_curve.png?raw=true"/-->
-<img src="../../images/Logistic%20Regression/precision_recall_curve_RFC.png?raw=true"/>
-<img src="../../images/Logistic%20Regression/precision_recall_curve_SVC.png?raw=true"/>
+<img src="precision_recall_curve_RFC.png?raw=true"/>
+<img src="precision_recall_curve_SVC.png?raw=true"/>
 
 #### ROC Curve:
 
-<img src="../../images/Logistic%20Regression/roc_curve_RFC.png?raw=true"/>
-<img src="../../images/Logistic%20Regression/roc_curve_SVC.png?raw=true"/>
+<img src="roc_curve_RFC.png?raw=true"/>
+<img src="roc_curve_SVC.png?raw=true"/>
 
 ### Learning Outcomes:
 
