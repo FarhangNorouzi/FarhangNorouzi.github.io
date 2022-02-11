@@ -7,7 +7,7 @@
 <!-- <a href="/Projects/Logistic Regression/Logistic_Regression/" style="color: red; ">Credit Card Fraud Detection Using Logistic Regression</a> -->
 <img src="images/Logistic%20Regression/Credi Card Fraud profile pic.jpg?raw=true"/>
 <p align = "center">
-Reference: https://www.kaggle.com<br/>
+Picture Reference: https://www.kaggle.com<br/>
 URL: https://www.kaggle.com/mariapushkareva/credit-card-fraud-detection-f1-score-0-86
 </p>
 ---
@@ -28,7 +28,7 @@ URL: https://en.wikipedia.org/wiki/Wine_fraud
 [Logistic Regression](/Projects/Logistic Regression/Logistic_Regression)
 <img src="images/Logistic%20Regression/Logestic Regression_sample pic2.png?raw=true"/>
 <p align = "center">
-Reference: https://medium.com/<br/>
+Picture Reference: https://medium.com/<br/>
 URL: https://medium.com/analytics-vidhya/logistic-regression-with-scracth-c23b9afb04b2
 </p>
 ---
