@@ -56,8 +56,8 @@ Yann-Aël Le Borgne, Gianluca Bontempi Machine Learning for Credit Card Fraud De
 
 #### ROC Curve:
 
-<img src="roc_curve_RFC.png?raw=true"/>
-<img src="roc_curve_SVC.png?raw=true"/>
+<img src="ROC_curve_RFC.png?raw=true"/>
+<img src="ROC_curve_SVC.png?raw=true"/>
 
 ### Learning Outcomes:
 
