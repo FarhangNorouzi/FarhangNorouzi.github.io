@@ -32,11 +32,13 @@ The dataset contains only numerical input variables which are the outcome of a P
 
 <!--img src="images/Logistic%20Regression/precision_recall_curve.png?raw=true"/-->
 <img src="precision_recall_curve_RFC.png?raw=true"/>
+<img src="precision_recall_curve_XGB.png?raw=true"/>
 <img src="precision_recall_curve_SVC.png?raw=true"/>
 
 #### ROC Curve:
 
 <img src="ROC_curve_RFC.png?raw=true"/>
+<img src="ROC_curve_XGB.png?raw=true"/>
 <img src="ROC_curve_SVC.png?raw=true"/>
 
 ### Learning Outcomes:
