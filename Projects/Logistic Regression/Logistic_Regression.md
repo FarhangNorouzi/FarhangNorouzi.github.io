@@ -23,10 +23,10 @@ The dataset contains only numerical input variables which are the outcome of a P
 - Num of Samples: 284807 
 - Num of Features: 31  
 
-Integer Variables:  
+-Integer Variables:  
  variables: 1 --> ['Class']  
 
-Float Variables: 
+-Float Variables: 
  variables: 30 --> ['Time', 'V1', 'V2', 'V3', 'V4', 'V5', 'V6', 'V7', 'V8', 'V9', 'V10', 'V11', 'V12', 'V13', 'V14', 'V15', 'V16', 'V17', 'V18', 'V19', 'V20', 'V21', 'V22', 'V23', 'V24', 'V25', 'V26', 'V27', 'V28', 'Amount'] 
 
 Is there any missing values? No missing value❌
@@ -34,7 +34,7 @@ Is there any missing values? No missing value❌
 **Data Imbalance:** The number of the Fraud transactions is ver small comparing to the total number of transactions (0.172%), which makes the data highly IMBALANCED toward one Class. Therefore, some pre-procesings need to be done before tarning the model, otherwise the predictive model will probably overfit toward the Non-Fraud class.
 
 <img src="Distribution of Fraud vs Ligit Transactions.png?raw=true"/>
-<img src="blanced.png?raw=true"/>
+<img src="unblanced.png?raw=true"/>
 
 
 ### Results
