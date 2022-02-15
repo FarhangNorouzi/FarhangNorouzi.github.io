@@ -55,7 +55,6 @@ The dataset contains only numerical input variables which are the outcome of a P
 <p float="left">
   <img src="/CNF_matrix_RFC" width="50" />
   <img src="/CNF_matrix_XGB" width="50" /> 
-  <img src="/CNF_matrix_SVC" width="50" />
 </p>
 
 #### Precision Recall Curve:
