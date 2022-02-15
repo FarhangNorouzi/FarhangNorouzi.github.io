@@ -52,6 +52,12 @@ The dataset contains only numerical input variables which are the outcome of a P
 <img src="CNF_matrix_XGB.png?raw=true"/>
 <img src="CNF_matrix_SVC.png?raw=true"/>
 
+<p float="left">
+  <img src="/CNF_matrix_RFC" width="50" />
+  <img src="/CNF_matrix_XGB" width="50" /> 
+  <img src="/CNF_matrix_SVC" width="50" />
+</p>
+
 #### Precision Recall Curve:
 
 <!--img src="images/Logistic%20Regression/precision_recall_curve.png?raw=true"/-->
