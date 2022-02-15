@@ -20,10 +20,10 @@ The dataset contains only numerical input variables which are the outcome of a P
 - Original Source: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 **Exploratory Data Analysis:**
-------------DIMENSIONS ----------
+------------DIMENSIONS ---------- \
 Num of Samples: 284807 Num of Features: 31 
 
---------------DTYPES------------- 
+--------------DTYPES------------- \
 Integer Variables: 
  variables: 1 
  ['Class'] 
