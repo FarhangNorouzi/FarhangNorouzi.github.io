@@ -36,6 +36,13 @@ Is there any missing values? No missing value❌
 <img src="Distribution of Fraud vs Ligit Transactions.png?raw=true"/>
 <img src="unblanced.png?raw=true"/>
 
+**Correlation Among Explanatory Features:** There are 3 non-PCA features (Time, Amount and Class) in the dataset. It is always a good idea to investigate the correlation between the various features to remove the features with HIGH correlation. This can avoid overfitting of the predictive model.
+
+<img src="correlation.png?raw=true"/>
+
+**Data Oversampling:** Oversampling is a technique to increases the number of minority class members in the training dataset. The main advantage of oversampling is that no information from the original training set is lost (in contrast with the undersampling method), so all observations from the minority and majority classes are kept. On the other hand, it is prone to overfitting. The so-called SMOTE (Synthetic Minority Oversampling Technique) method is implemented to make the dataset balanced. SMOTE creates synthetic points from the minority class (Fraud) to reach an equal balance between the minority and majority classes.
+
+<img src="balanced.png?raw=true"/>
 
 ### Results
 
