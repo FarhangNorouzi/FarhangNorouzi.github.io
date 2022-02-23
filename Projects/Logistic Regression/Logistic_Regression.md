@@ -49,11 +49,11 @@ The dataset contains only numerical input variables which are the outcome of a P
 #### Confusion Matrix:
 
 <img src="CNF_matrix_RFC.png?raw=true"/>
-<img src="report_RFC.png?raw=true"/>
+<img src="Report_RFC.png?raw=true"/>
 <img src="CNF_matrix_XGB.png?raw=true"/>
-<img src="report_XGB.png?raw=true"/>
+<img src="Report_XGB.png?raw=true"/>
 <img src="CNF_matrix_SVC.png?raw=true"/>
-<img src="report_SVC.png?raw=true"/>
+<img src="Report_SVC.png?raw=true"/>
 
 #### Precision Recall Curve:
 
