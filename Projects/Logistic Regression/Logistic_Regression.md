@@ -69,10 +69,9 @@ The dataset contains only numerical input variables which are the outcome of a P
 <img src="ROC_curve_SVC.png?raw=true"/>
 
 ### Learning Outcomes:
--	Accuracy of the neural network ( around 90%) is high compared to Logistic Regression (47%) (as the dataset is not linearly separable). So the model has learned the leaf patterns of the flower.
-- The larger models (with more hidden units) are able to fit the training set better, until eventually the largest models overfit the data. 
-- The best hidden layer size seems to be around n_h = 5. Indeed, a value around here seems to  fits the data well without also incurring noticeable overfitting.
-
+-	The best score belongs to Random Forest model (RFC) with the SMOTE oversampling data (0.89).
+-	The other two models are slightly behind the RFC model.
+-	SVC model has the potential to show a better performance if is trained on the full TRAIN set. In this example, the SVC classifier is trained on a smaller subset of training data to minimize the CPU runtime.
 **Acknowledgements:**
 The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
 More details on current and past projects on related topics are available on https://www.researchgate.net/project/Fraud-detection-5 and the page of the DefeatFraud project
