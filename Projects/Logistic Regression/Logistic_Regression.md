@@ -49,12 +49,11 @@ The dataset contains only numerical input variables which are the outcome of a P
 #### Confusion Matrix:
 
 <img src="CNF_matrix_RFC.png?raw=true"/>
+<img src="report_RFC.png?raw=true"/>
 <img src="CNF_matrix_XGB.png?raw=true"/>
+<img src="report_XGB.png?raw=true"/>
 <img src="CNF_matrix_SVC.png?raw=true"/>
-
-<p float="left">
-  <img src="/CNF_matrix_RFC" width="50" />
-</p>
+<img src="report_SVC.png?raw=true"/>
 
 #### Precision Recall Curve:
 
@@ -70,6 +69,9 @@ The dataset contains only numerical input variables which are the outcome of a P
 <img src="ROC_curve_SVC.png?raw=true"/>
 
 ### Learning Outcomes:
+-	Accuracy of the neural network ( around 90%) is high compared to Logistic Regression (47%) (as the dataset is not linearly separable). So the model has learned the leaf patterns of the flower.
+- The larger models (with more hidden units) are able to fit the training set better, until eventually the largest models overfit the data. 
+- The best hidden layer size seems to be around n_h = 5. Indeed, a value around here seems to  fits the data well without also incurring noticeable overfitting.
 
 **Acknowledgements:**
 The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
