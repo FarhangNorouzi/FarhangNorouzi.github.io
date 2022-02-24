@@ -72,6 +72,7 @@ The dataset contains only numerical input variables which are the outcome of a P
 -	The best score belongs to Random Forest model (RFC) with the SMOTE oversampling data (0.89).
 -	The other two models are slightly behind the RFC model.
 -	SVC model has the potential to show a better performance if is trained on the full TRAIN set. In this example, the SVC classifier is trained on a smaller subset of training data to minimize the CPU runtime.
+
 **Acknowledgements:**
 The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
 More details on current and past projects on related topics are available on https://www.researchgate.net/project/Fraud-detection-5 and the page of the DefeatFraud project
