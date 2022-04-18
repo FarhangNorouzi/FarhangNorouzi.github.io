@@ -11,8 +11,8 @@ Picture Reference: https://www.kaggle.com<br/>
 URL: https://www.kaggle.com/mariapushkareva/credit-card-fraud-detection-f1-score-0-86
 </p>
 ---
-[Feature Engineering](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predictive Maintenance: Shutdown Prediction](/pdf/sample_presentation.pdf)
+<img src="images/Forecasting/predicitve maintenance profile pic.png?raw=true"/>
 
 ---
 [Wine Fraud Detection Using SVM Method ](/Projects/SVM/SVM)
