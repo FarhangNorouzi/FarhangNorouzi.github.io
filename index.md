@@ -13,7 +13,10 @@ URL: https://www.kaggle.com/mariapushkareva/credit-card-fraud-detection-f1-score
 ---
 [Predictive Maintenance: Shutdown Prediction](/pdf/sample_presentation.pdf)
 <img src="images/Forecasting/predicitve maintenance profile pic.png?raw=true"/>
-
+<p align = "center">
+Picture Reference: https://www.altexsoft.com/<br/>
+URL: https://www.altexsoft.com/blog/predictive-maintenance/
+</p>
 ---
 [Wine Fraud Detection Using SVM Method ](/Projects/SVM/SVM)
 <img src="images/SVM/Wine Fraud.jpg?raw=true"/>
