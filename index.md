@@ -7,21 +7,21 @@
 <!-- <a href="/Projects/Logistic Regression/Logistic_Regression/" style="color: red; ">Credit Card Fraud Detection Using Logistic Regression</a> -->
 <img src="images/Logistic%20Regression/Credi Card Fraud profile pic.jpg?raw=true"/>
 <p align = "center">
-Picture Reference: https://www.kaggle.com<br/>
+Pic Ref: https://www.kaggle.com<br/>
 URL: https://www.kaggle.com/mariapushkareva/credit-card-fraud-detection-f1-score-0-86
 </p>
 ---
 [Predictive Maintenance: Shutdown Prediction](/pdf/sample_presentation.pdf)
 <img src="images/Forecasting/predicitve maintenance profile pic.png?raw=true"/>
 <p align = "center">
-Picture Reference: https://www.altexsoft.com/<br/>
+Pic Ref: https://www.altexsoft.com/<br/>
 URL: https://www.altexsoft.com/blog/predictive-maintenance/
 </p>
 ---
 [Wine Fraud Detection Using SVM Method ](/Projects/SVM/SVM)
 <img src="images/SVM/Wine Fraud.jpg?raw=true"/>
 <p align = "center">
-Reference: https://en.wikipedia.org<br/>
+Pic Ref: https://en.wikipedia.org<br/>
 URL: https://en.wikipedia.org/wiki/Wine_fraud
 </p>
 
