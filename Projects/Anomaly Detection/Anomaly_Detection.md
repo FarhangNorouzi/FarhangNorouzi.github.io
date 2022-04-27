@@ -34,7 +34,7 @@ The dataset is chosen as one of the data science/machine learning competitions o
 **Dimensionality Reduction:** In order to reduce the dataset dimension which has too many features (sensors data features), a PCA method is applied to reduce the dimensionality. An Elbow method has been applied to find the best number of components and the eventually the 3 components (n_components=3) were chosen which explains almost 63% of the covariance of the original dataset. That much covariance would be sufficient for the sake of this project but one may go to higher dimensions if interested. After transforming the original data into the new orthogonal vectors PC1, PC2 and PC3, the dataframe looks like the following: 
 
 
-<br> timestamp			  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     PC1  &nbsp;&nbsp;   PC2  &nbsp;&nbsp;    PC3
+<br> timestamp			  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     PC1  &nbsp;&nbsp;&nbsp;&nbsp;   PC2  &nbsp;&nbsp;&nbsp;&nbsp;    PC3
 <br> 2018-04-01 00:00:00	-0.046056	0.490524	-0.470246
 <br> 2018-04-01 00:01:00	-0.046056	0.490524	-0.470246
 <br> 2018-04-01 00:02:00	-0.186309	0.500354	-0.441183
