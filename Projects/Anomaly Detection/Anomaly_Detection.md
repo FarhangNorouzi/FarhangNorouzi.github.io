@@ -47,27 +47,20 @@ Is there any missing values?
 
 ### Results
 
-#### Confusion Matrix:
+#### Isolation Forest:
 
 <img src="Figures/PC1_plot_IF.png?raw=true"/>
-<img src="Report_RFC.PNG?raw=true"/>
-<img src="CNF_matrix_XGB.png?raw=true"/>
-<img src="Report_XGB.PNG?raw=true"/>
-<img src="CNF_matrix_SVC.png?raw=true"/>
-<img src="Report_SVC.PNG?raw=true"/>
+<img src="Figures/PC2_plot_IF.png.PNG?raw=true"/>
+<img src="Figures/PC3_plot_IF.png.png?raw=true"/>
 
-#### Precision Recall Curve:
 
-<!--img src="images/Logistic%20Regression/precision_recall_curve.png?raw=true"/-->
-<img src="precision_recall_curve_RFC.png?raw=true"/>
-<img src="precision_recall_curve_XGB.png?raw=true"/>
-<img src="precision_recall_curve_SVC.png?raw=true"/>
+#### One-Class SVM:
 
-#### ROC Curve:
+<img src="Figures/PC1_plot_OneSVM.png?raw=true"/>
+<img src="Figures/PC2_plot_OneSVM.png.PNG?raw=true"/>
+<img src="Figures/PC3_plot_OneSVM.png.png?raw=true"/>
 
-<img src="ROC_curve_RFC.png?raw=true"/>
-<img src="ROC_curve_XGB.png?raw=true"/>
-<img src="ROC_curve_SVC.png?raw=true"/>
+
 
 ### Learning Outcomes:
 -	The best score belongs to Random Forest model (RFC) with the SMOTE oversampling data (0.89).
