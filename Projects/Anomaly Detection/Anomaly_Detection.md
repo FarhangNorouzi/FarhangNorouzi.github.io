@@ -49,7 +49,7 @@ Is there any missing values?
 
 #### Confusion Matrix:
 
-<img src="CNF_matrix_RFC.png?raw=true"/>
+<img src="Figures/PC1_plot_IF.png?raw=true"/>
 <img src="Report_RFC.PNG?raw=true"/>
 <img src="CNF_matrix_XGB.png?raw=true"/>
 <img src="Report_XGB.PNG?raw=true"/>
