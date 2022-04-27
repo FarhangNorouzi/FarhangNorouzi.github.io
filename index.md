@@ -11,7 +11,7 @@ Pic Ref: https://www.kaggle.com<br/>
 URL: https://www.kaggle.com/mariapushkareva/credit-card-fraud-detection-f1-score-0-86
 </p>
 ---
-[Predictive Maintenance: Shutdown Prediction](/pdf/sample_presentation.pdf)
+[Predictive Maintenance: Shutdown Prediction](/Projects/Anomaly Detection/Anomaly_Detection)
 <img src="images/Forecasting/predicitve maintenance profile pic.png?raw=true"/>
 <p align = "center">
 Pic Ref: https://www.altexsoft.com/<br/>
