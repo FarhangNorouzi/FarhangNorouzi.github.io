@@ -70,7 +70,7 @@ An Elbow method has been applied to find the best number of components and the e
 <img src="Figures/PC1_plot_IF.png?raw=true"/>
 <img src="Figures/PC2_plot_IF.png?raw=true"/>
 <img src="Figures/PC3_plot_IF.png?raw=true"/>
-5 anomalies out of 7 BROKEN status points are detected by the model.
+!5 anomalies out of 7 BROKEN status points are detected by the model.!
 
 #### One-Class SVM:
 
