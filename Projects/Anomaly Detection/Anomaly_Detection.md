@@ -32,6 +32,9 @@ The Preventive Maintenance, which is focused on replacing parts while they are s
 - Is there any missing values? Data includes missing value✔️
 
 **Plotting the sensor data versus the FAILURE points:**
+The time-series data of each sensor is plotted versus the BROKEN points which has happened 7 times during the timespan of the dataset. 
+Only the first 20 sensors are plotted here.
+
 <img src="Figures/sensor_00_plot.png?raw=true"/>
 <img src="Figures/sensor_01_plot.png?raw=true"/>
 <img src="Figures/sensor_02_plot.png?raw=true"/>
@@ -47,6 +50,11 @@ The Preventive Maintenance, which is focused on replacing parts while they are s
 <img src="Figures/sensor_12_plot.png?raw=true"/>
 <img src="Figures/sensor_13_plot.png?raw=true"/>
 <img src="Figures/sensor_14_plot.png?raw=true"/>
+<img src="Figures/sensor_15_plot.png?raw=true"/>
+<img src="Figures/sensor_16_plot.png?raw=true"/>
+<img src="Figures/sensor_17_plot.png?raw=true"/>
+<img src="Figures/sensor_18_plot.png?raw=true"/>
+<img src="Figures/sensor_19_plot.png?raw=true"/>
 
 
 **Dimensionality Reduction:** In order to reduce the dataset dimension which has too many features (sensors data features), a PCA method is applied to reduce the dimensionality. <br>
@@ -70,21 +78,22 @@ An Elbow method has been applied to find the best number of components and the e
 <img src="Figures/PC1_plot_IF.png?raw=true"/>
 <img src="Figures/PC2_plot_IF.png?raw=true"/>
 <img src="Figures/PC3_plot_IF.png?raw=true"/>
-!5 anomalies out of 7 BROKEN status points are detected by the model.!
+__5 anomalies out of 7 BROKEN status points are detected by the model.__
 
 #### One-Class SVM:
 
 <img src="Figures/PC1_plot_OneSVM.png?raw=true"/>
 <img src="Figures/PC2_plot_OneSVM.png?raw=true"/>
 <img src="Figures/PC3_plot_OneSVM.png?raw=true"/>
-4 anomalies out of 7 BROKEN status points are detected by the model (one failure less than Isolation Forest).
+__4 anomalies out of 7 BROKEN status points are detected by the model (one failure less than Isolation Forest).__
 
 
 
 ### Learning Outcomes:
--	The best score belongs to Random Forest model (RFC) with the SMOTE oversampling data (0.89).
--	The other two models are slightly behind the RFC model.
--	SVC model has the potential to show a better performance if is trained on the full TRAIN set. In this example, the SVC classifier is trained on a smaller subset of training data to minimize the CPU runtime.
+-	The conversion of the data into 3 PCA components explains the 63% of the covarience of the original dataset. 
+-	Both methods were set to detect the 0.1% of the outlier data (outlier fraction = 0.001).
+-	The Isolation Forest could slightly better capture the anomalies or BROKEN status points(5 out of 7) than the OneClassSVM (4 out of 7).
+-	Isolation Forest model has the potential to show a better performance in terms of forecasting the future failures. 
 
 **Acknowledgements:**
 The data is shared on kaggle.com as "pump_sensor_data".
