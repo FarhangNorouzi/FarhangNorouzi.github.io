@@ -50,15 +50,15 @@ Is there any missing values?
 #### Isolation Forest:
 
 <img src="Figures/PC1_plot_IF.png?raw=true"/>
-<img src="Figures/PC2_plot_IF.png.PNG?raw=true"/>
-<img src="Figures/PC3_plot_IF.png.png?raw=true"/>
+<img src="Figures/PC2_plot_IF.png?raw=true"/>
+<img src="Figures/PC3_plot_IF.png?raw=true"/>
 
 
 #### One-Class SVM:
 
 <img src="Figures/PC1_plot_OneSVM.png?raw=true"/>
-<img src="Figures/PC2_plot_OneSVM.png.PNG?raw=true"/>
-<img src="Figures/PC3_plot_OneSVM.png.png?raw=true"/>
+<img src="Figures/PC2_plot_OneSVM.png?raw=true"/>
+<img src="Figures/PC3_plot_OneSVM.png?raw=true"/>
 
 
 
