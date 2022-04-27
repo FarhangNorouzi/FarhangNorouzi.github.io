@@ -6,17 +6,17 @@ The dataset is chosen as one of the data science/machine learning competitions o
 **Introduction:** Modern world is full of numerous machines and equipment in various industries such as manufacturing, aviation, oil and gas among others. The lifecycle of all these equipment is limited, and they will run to failure at some point. An unexpected failure of a machine can cost millions of dollars in the big factory or plant. As a result, an efficient maintenance policy is needed to avoid the outages and breakdowns due to failure. The Preventive Maintenance, which is focused on replacing parts while they are still working, can reduce the total operational cost comparing to traditional Reactive Maintenance or replacing the parts after failure. The Predictive Maintenance became more and more feasible by the appearance of Machine Learning and AI techniques using the real-time data from IoT devices. These methods can constantly monitor the equipment’s health index and predict the point of failure in the future, based on the health of an equipment in the past. As a result, the replacement of parts can be scheduled just before the actual failure in order to reduce the downtime of the machines.
 
 
-**DATA:** The dataset contains transactions made by credit cards in September 2013 by European cardholders.
-The whole transactions in the dataset occurred in two days, with 492 fraud transactions out of 284,807. Therefore, the dataset is highly unbalanced, toward the negative class (legit) where the positive class (frauds) accounts for 0.172% of all transactions.
-
-The dataset contains only numerical input variables which are the outcome of a PCA transformation. The original features were not provided due to confidentiality issues. Features V1, V2, … V28 are the principal components obtained with PCA, where 'Time' and 'Amount' are the only features which have not been transformed. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction. The feature 'Amount' is the corresponding amount for each transaction, an it can be used for example-dependant cost-sensitive learning. Feature 'Class' is the target variable and it takes value 1 in case of fraud and 0 otherwise.
+**DATA:** The dataset contains 3 different types of data:
+- Timestamp data
+- Telemetry Time Series Data including the 52 sensors of the water pump
+- Machine status: This is target label that I want to predict when the failure will happen
+The total dataset contains 220320 samples of the sensor data from April till September 2028 with the frequency of 1 minute. There are only 7 Failure (BROKEN status) points in the whole column of the 'machine_status' of the dataset.
 
 **Attribute Information:**
-- Amount : Transaction amount
-- Time: seconds elapsed between each transaction 
-- V1 to v28 : PCA obtained features  
-- Class: 1 in case of fraud and 0 otherwise
-- Original Source: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+- timestamp: Frequency equal to 1-minute 
+- sensor_00 to sensor_51: IoT sensor data  
+- machine_status: "NORMAL"+"RECOVERY"+"BROKEN"
+- Original Source: https://www.kaggle.com/datasets/nphantawee/pump-sensor-data
 
 **Dataset Summary:**
 - Num of Samples: 220320 
