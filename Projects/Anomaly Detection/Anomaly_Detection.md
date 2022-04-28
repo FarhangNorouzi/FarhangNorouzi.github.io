@@ -50,11 +50,11 @@ Only the first 20 sensors are plotted here.
 <img src="Figures/sensor_12_plot.png?raw=true"/>
 <img src="Figures/sensor_13_plot.png?raw=true"/>
 <img src="Figures/sensor_14_plot.png?raw=true"/>
-<img src="Figures/sensor_15_plot.png?raw=true"/>
 <img src="Figures/sensor_16_plot.png?raw=true"/>
 <img src="Figures/sensor_17_plot.png?raw=true"/>
 <img src="Figures/sensor_18_plot.png?raw=true"/>
 <img src="Figures/sensor_19_plot.png?raw=true"/>
+<img src="Figures/sensor_20_plot.png?raw=true"/>
 
 
 **Dimensionality Reduction:** In order to reduce the dataset dimension which has too many features (sensors data features), a PCA method is applied to reduce the dimensionality. <br>
